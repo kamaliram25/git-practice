@@ -11,3 +11,5 @@ pull request
 updating from github
 eg of pull request
 
+plsql
+powerbi
