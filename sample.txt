@@ -2,3 +2,7 @@ want to become a data analyst
 sql is a sequential query language
 with pyplot, we  can use the plt()function to drw pie charts
 the his()function will read the array
+add
+commit
+pusgh
+pull request
